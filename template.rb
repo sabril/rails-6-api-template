@@ -21,7 +21,7 @@ gem 'jsonapi-rails'
 gem 'pg', '>= 0.18', '< 2.0'
 gem 'puma', '~> 4.1'
 gem 'rack-cors'
-gem 'rails', '~> 6.0.3', '>= 6.0.3.2'
+gem 'rails', '~> 6.1'
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 gem_group :development, :test do
